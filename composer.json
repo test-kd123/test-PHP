@@ -1,13 +1,11 @@
 {
-    "name": "compdfkit/compdfkit-api-php",
-    "description": "ComPDFKit API PHP SDK",
-    "homepage": "https://api.compdf.com/api-reference/overview",
+    "name": "test/test-api-php",
+    "description": "TEST API PHP SDK",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "compdfkit",
-            "homepage": "https://api.compdf.com"
+            "name": "test",
         }
     ],
     "require": {
