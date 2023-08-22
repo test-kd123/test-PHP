@@ -1,5 +1,5 @@
 {
-    "name": "test/test-api-php",
+    "name": "test-kdd/test-kdd-api-php",
     "description": "TEST API PHP SDK",
     "type": "library",
     "license": "MIT",
