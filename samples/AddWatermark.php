@@ -54,6 +54,7 @@ function addWatermarkText(){
     }
 }
 
+
 function addWatermarkTextImage(){
     $client = new CPDFClient('public_key', 'secret_key');
 
