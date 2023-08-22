@@ -89,7 +89,7 @@ class CPDFClient
 
     /**
      * @param $fileKey
-     * @param null $language
+     * @param null $language 1:English, 2:Chinese
      * @return mixed
      * @throws CPDFException
      */
@@ -124,7 +124,7 @@ class CPDFClient
 
     /**
      * @param $executeType
-     * @param int $language
+     * @param int $language 1:English, 2:Chinese
      * @return CPDFClient
      * @throws CPDFException
      */
@@ -216,7 +216,7 @@ class CPDFClient
 
     /**
      * @param $taskId
-     * @param null $language
+     * @param null $language 1:English, 2:Chinese
      * @return CPDFClient
      * @throws CPDFException
      */
@@ -233,7 +233,7 @@ class CPDFClient
 
     /**
      * @param $taskId
-     * @param null $language
+     * @param null $language 1:English, 2:Chinese
      * @return mixed
      * @throws CPDFException
      */

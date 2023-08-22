@@ -348,7 +348,7 @@ class CPDFFileResource
     /**
      * @param $taskId
      * @param null $password
-     * @param null $language
+     * @param null $language 1:English, 2:Chinese
      * @return CPDFClient
      * @throws CPDFException
      */
